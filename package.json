@@ -4,12 +4,13 @@
   "description": "A project to showcase workflows",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/tammarat/workflow.git"
   },
   "author": "Tammarat Watthanaphaiboonsuk",
   "license": "ISC",
   "devDependencies": {
     "gulp": "~3.8.10",
-    "gulp-util": "~3.0.1"
+    "gulp-util": "~3.0.1",
+    "gulp-coffee": "~2.2.0"
   }
 }
